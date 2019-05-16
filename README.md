@@ -5,7 +5,9 @@ Celem aplikacji jest pokazanie obsługi wbudowanej bazy danych SQLite w systemie
 tworzenie notatek, ich edycję i usuwanie.
 
 <h1>Autorzy</h1>
-Szymon Grzelak
-Monika Odartus
-Tomasz Kot
+<ul>
+  <li>Szymon Grzelak</li>
+  <li>Monika Odartus</li>
+  <li>Tomasz Kot</li>
+</ul>
 
